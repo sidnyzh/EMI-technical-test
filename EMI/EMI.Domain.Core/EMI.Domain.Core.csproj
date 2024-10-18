@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMI.Domain.Interface\EMI.Domain.Interface.csproj" />
+    <ProjectReference Include="..\EMI.Repository.EFC\EMI.Repository.EFC.csproj" />
+    <ProjectReference Include="..\EMI.Repository.Pattern\EMI.Repository.Pattern.csproj" />
+    <ProjectReference Include="..\EMI.Transversal.Exceptions\EMI.Transversal.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

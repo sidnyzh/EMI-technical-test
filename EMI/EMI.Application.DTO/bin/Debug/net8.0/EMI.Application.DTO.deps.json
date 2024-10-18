@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EMI.Application.DTO/1.0.0": {
+        "dependencies": {
+          "EMI.Transversal.Enums": "1.0.0"
+        },
+        "runtime": {
+          "EMI.Application.DTO.dll": {}
+        }
+      },
+      "EMI.Transversal.Enums/1.0.0": {
+        "runtime": {
+          "EMI.Transversal.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMI.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMI.Transversal.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Application.Interface.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Application.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Application.Interface.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Application.DTO.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Application.DTO.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\bin\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Appl.B6968E4A.Up2Date
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\refint\EMI.Application.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\EMI.Application.Interface.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.Interface\obj\Debug\net8.0\ref\EMI.Application.Interface.dll

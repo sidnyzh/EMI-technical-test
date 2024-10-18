@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EMI.Transversal.Exceptions/1.0.0": {
+        "runtime": {
+          "EMI.Transversal.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMI.Transversal.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\bin\Debug\net8.0\EMI.Transversal.Enums.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\bin\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\bin\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\refint\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Enums\obj\Debug\net8.0\ref\EMI.Transversal.Enums.dll

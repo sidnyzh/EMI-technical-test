@@ -1,0 +1,17 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Domain.Interface.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Domain.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Domain.Interface.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Domain.Entity.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Domain.Entity.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\bin\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Doma.470993ED.Up2Date
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\refint\EMI.Domain.Interface.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\EMI.Domain.Interface.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Interface\obj\Debug\net8.0\ref\EMI.Domain.Interface.dll

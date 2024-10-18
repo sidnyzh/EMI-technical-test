@@ -1,0 +1,682 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8569CD67-B3AA-4FE4-BE01-7E8044D21200}|EMI.Application.Main\\EMI.Application.Main.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.main\\employeeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8569CD67-B3AA-4FE4-BE01-7E8044D21200}|EMI.Application.Main\\EMI.Application.Main.csproj|solutionrelative:emi.application.main\\employeeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776AEBF6-199A-4BFD-84B8-AB8850C12811}|EMI.Domain.Core\\EMI.Domain.Core.csproj|c:\\users\\sidny\\documents\\emi technical test\\emi\\emi.domain.core\\employeedomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776AEBF6-199A-4BFD-84B8-AB8850C12811}|EMI.Domain.Core\\EMI.Domain.Core.csproj|solutionrelative:emi.domain.core\\employeedomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8569CD67-B3AA-4FE4-BE01-7E8044D21200}|EMI.Application.Main\\EMI.Application.Main.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.main\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8569CD67-B3AA-4FE4-BE01-7E8044D21200}|EMI.Application.Main\\EMI.Application.Main.csproj|solutionrelative:emi.application.main\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23152E5-0533-4E85-B4DA-DF92B218F08C}|EMI.Application.Interface\\EMI.Application.Interface.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.interface\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23152E5-0533-4E85-B4DA-DF92B218F08C}|EMI.Application.Interface\\EMI.Application.Interface.csproj|solutionrelative:emi.application.interface\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23152E5-0533-4E85-B4DA-DF92B218F08C}|EMI.Application.Interface\\EMI.Application.Interface.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.interface\\iemployeeapplication.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23152E5-0533-4E85-B4DA-DF92B218F08C}|EMI.Application.Interface\\EMI.Application.Interface.csproj|solutionrelative:emi.application.interface\\iemployeeapplication.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.dto\\user\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|solutionrelative:emi.application.dto\\user\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.dto\\user\\request\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|solutionrelative:emi.application.dto\\user\\request\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.dto\\user\\request\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|solutionrelative:emi.application.dto\\user\\request\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.dto\\employee\\request\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|solutionrelative:emi.application.dto\\employee\\request\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.application.dto\\employee\\request\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD59333-D39A-4819-B327-1A976F1794D3}|EMI.Application.DTO\\EMI.Application.DTO.csproj|solutionrelative:emi.application.dto\\employee\\request\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\authorization\\rolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\authorization\\rolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\authorization\\authorizerolerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\authorization\\authorizerolerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\appstart\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\appstart\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\middlewares\\requestloggingmiddleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\middlewares\\requestloggingmiddleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\middlewares\\globalexceptionmiddleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\middlewares\\globalexceptionmiddleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\middlewares\\globalexceptionmiddleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\middlewares\\globalexceptionmiddleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\middlewares\\globalexceptionmiddleware\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\middlewares\\globalexceptionmiddleware\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\jwt\\jwtinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\jwt\\jwtinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\jwt\\ijwtinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\jwt\\ijwtinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\authentication\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\authentication\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F02E9-8DA5-4C66-BDA6-6D020BF93ED4}|EMI.Domain.Entity\\EMI.Domain.Entity.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.domain.entity\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F02E9-8DA5-4C66-BDA6-6D020BF93ED4}|EMI.Domain.Entity\\EMI.Domain.Entity.csproj|solutionrelative:emi.domain.entity\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F02E9-8DA5-4C66-BDA6-6D020BF93ED4}|EMI.Domain.Entity\\EMI.Domain.Entity.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.domain.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F02E9-8DA5-4C66-BDA6-6D020BF93ED4}|EMI.Domain.Entity\\EMI.Domain.Entity.csproj|solutionrelative:emi.domain.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95563D47-F417-4C41-91EC-C2601E01C3E3}|EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.repository.pattern\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95563D47-F417-4C41-91EC-C2601E01C3E3}|EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj|solutionrelative:emi.repository.pattern\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95563D47-F417-4C41-91EC-C2601E01C3E3}|EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.repository.pattern\\emi.repository.pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95563D47-F417-4C41-91EC-C2601E01C3E3}|EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj|solutionrelative:emi.repository.pattern\\emi.repository.pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.repository.efc\\emidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|solutionrelative:emi.repository.efc\\emidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.repository.efc\\emi.repository.efc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|solutionrelative:emi.repository.efc\\emi.repository.efc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776AEBF6-199A-4BFD-84B8-AB8850C12811}|EMI.Domain.Core\\EMI.Domain.Core.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.domain.core\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776AEBF6-199A-4BFD-84B8-AB8850C12811}|EMI.Domain.Core\\EMI.Domain.Core.csproj|solutionrelative:emi.domain.core\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.transversal.exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|solutionrelative:emi.transversal.exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.transversal.exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|solutionrelative:emi.transversal.exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\emi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\emi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.transversal.exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|solutionrelative:emi.transversal.exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.transversal.exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71E0BB-E017-4F52-8B34-581B2B0F4EEF}|EMI.Transversal.Exceptions\\EMI.Transversal.Exceptions.csproj|solutionrelative:emi.transversal.exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F81C2CD7-B07A-4C30-8947-5FDE017F0C02}|EMI\\EMI.csproj|solutionrelative:emi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\emi.repository.efc\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A072DA92-7923-4346-B7C3-1FD0E6A7E25D}|EMI.Repository.EFC\\EMI.Repository.EFC.csproj|solutionrelative:emi.repository.efc\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Request\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "EMI.Application.DTO\\User\\Request\\AuthenticationRequest.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Request\\AuthenticationRequest.cs",
+              "RelativeToolTip": "EMI.Application.DTO\\User\\Request\\AuthenticationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:48:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "EMI\\Authentication\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:42:44.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EMI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EMI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:13:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\Employee\\Request\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "EMI.Application.DTO\\Employee\\Request\\CreateEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\Employee\\Request\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "EMI.Application.DTO\\Employee\\Request\\CreateEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:07:49.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Interface\\IUserApplication.cs",
+              "RelativeDocumentMoniker": "EMI.Application.Interface\\IUserApplication.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Interface\\IUserApplication.cs",
+              "RelativeToolTip": "EMI.Application.Interface\\IUserApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:54:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Main\\EmployeeApplication.cs",
+              "RelativeDocumentMoniker": "EMI.Application.Main\\EmployeeApplication.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Main\\EmployeeApplication.cs",
+              "RelativeToolTip": "EMI.Application.Main\\EmployeeApplication.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:29:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Main\\UserApplication.cs",
+              "RelativeDocumentMoniker": "EMI.Application.Main\\UserApplication.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Main\\UserApplication.cs",
+              "RelativeToolTip": "EMI.Application.Main\\UserApplication.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:29:32.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EMI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EMI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:13:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDomain.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Core\\EmployeeDomain.cs",
+              "RelativeDocumentMoniker": "EMI.Domain.Core\\EmployeeDomain.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Core\\EmployeeDomain.cs",
+              "RelativeToolTip": "EMI.Domain.Core\\EmployeeDomain.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:20:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Response\\UserResponse.cs",
+              "RelativeDocumentMoniker": "EMI.Application.DTO\\User\\Response\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Response\\UserResponse.cs",
+              "RelativeToolTip": "EMI.Application.DTO\\User\\Response\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:48:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeApplication.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Interface\\IEmployeeApplication.cs.cs",
+              "RelativeDocumentMoniker": "EMI.Application.Interface\\IEmployeeApplication.cs.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.Interface\\IEmployeeApplication.cs.cs",
+              "RelativeToolTip": "EMI.Application.Interface\\IEmployeeApplication.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:48:22.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authorization\\RoleHandler.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\Authorization\\RoleHandler.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authorization\\RoleHandler.cs",
+              "RelativeToolTip": "EMI\\Authentication\\Authorization\\RoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:49:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorizeRoleRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authorization\\AuthorizeRoleRequirement.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\Authorization\\AuthorizeRoleRequirement.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authorization\\AuthorizeRoleRequirement.cs",
+              "RelativeToolTip": "EMI\\Authentication\\Authorization\\AuthorizeRoleRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:26:57.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\Employee\\Request\\UpdateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "EMI.Application.DTO\\Employee\\Request\\UpdateEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\Employee\\Request\\UpdateEmployeeRequest.cs",
+              "RelativeToolTip": "EMI.Application.DTO\\Employee\\Request\\UpdateEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:12:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Request\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "EMI.Application.DTO\\User\\Request\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Application.DTO\\User\\Request\\CreateUserRequest.cs",
+              "RelativeToolTip": "EMI.Application.DTO\\User\\Request\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:11:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\AppStart\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "EMI\\AppStart\\DependencyResolver.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\AppStart\\DependencyResolver.cs",
+              "RelativeToolTip": "EMI\\AppStart\\DependencyResolver.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:47:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Program.cs",
+              "RelativeDocumentMoniker": "EMI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Program.cs",
+              "RelativeToolTip": "EMI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:02:14.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\RequestLoggingMiddleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "EMI\\Middlewares\\RequestLoggingMiddleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\RequestLoggingMiddleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "EMI\\Middlewares\\RequestLoggingMiddleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:39:38.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:09:39.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:10:49.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Middlewares\\GlobalExceptionMiddleware\\ErrorDetails.cs",
+              "RelativeToolTip": "EMI\\Middlewares\\GlobalExceptionMiddleware\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:09:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JWTInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\JWT\\JWTInformation.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\JWT\\JWTInformation.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\JWT\\JWTInformation.cs",
+              "RelativeToolTip": "EMI\\Authentication\\JWT\\JWTInformation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:04:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJWTInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\JWT\\IJWTInformation.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\JWT\\IJWTInformation.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\JWT\\IJWTInformation.cs",
+              "RelativeToolTip": "EMI\\Authentication\\JWT\\IJWTInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:04:47.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authentication\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "EMI\\Authentication\\Authentication\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Authentication\\Authentication\\IAuthenticationService.cs",
+              "RelativeToolTip": "EMI\\Authentication\\Authentication\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:42:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Entity\\RequestLog.cs",
+              "RelativeDocumentMoniker": "EMI.Domain.Entity\\RequestLog.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Entity\\RequestLog.cs",
+              "RelativeToolTip": "EMI.Domain.Entity\\RequestLog.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:32:09.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Entity\\User.cs",
+              "RelativeDocumentMoniker": "EMI.Domain.Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Entity\\User.cs",
+              "RelativeToolTip": "EMI.Domain.Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:08:39.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\EmiDbContext.cs",
+              "RelativeDocumentMoniker": "EMI.Repository.EFC\\EmiDbContext.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\EmiDbContext.cs",
+              "RelativeToolTip": "EMI.Repository.EFC\\EmiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:00:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EMI.Repository.EFC",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\EMI.Repository.EFC.csproj",
+              "RelativeDocumentMoniker": "EMI.Repository.EFC\\EMI.Repository.EFC.csproj",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\EMI.Repository.EFC.csproj",
+              "RelativeToolTip": "EMI.Repository.EFC\\EMI.Repository.EFC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T05:02:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.Pattern\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "EMI.Repository.Pattern\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.Pattern\\Repository\\Repository.cs",
+              "RelativeToolTip": "EMI.Repository.Pattern\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:05:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EMI.Repository.Pattern",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj",
+              "RelativeDocumentMoniker": "EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj",
+              "RelativeToolTip": "EMI.Repository.Pattern\\EMI.Repository.Pattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T05:05:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EMI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EMI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:42:09.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDomain.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Core\\UserDomain.cs",
+              "RelativeDocumentMoniker": "EMI.Domain.Core\\UserDomain.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Domain.Core\\UserDomain.cs",
+              "RelativeToolTip": "EMI.Domain.Core\\UserDomain.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:29:50.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InternalServerErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\InternalServerErrorException.cs",
+              "RelativeDocumentMoniker": "EMI.Transversal.Exceptions\\InternalServerErrorException.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\InternalServerErrorException.cs",
+              "RelativeToolTip": "EMI.Transversal.Exceptions\\InternalServerErrorException.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:42:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "EMI.Transversal.Exceptions\\ForbiddenException.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "EMI.Transversal.Exceptions\\ForbiddenException.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:42:03.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EMI.http",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\EMI.http",
+              "RelativeDocumentMoniker": "EMI\\EMI.http",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\EMI.http",
+              "RelativeToolTip": "EMI\\EMI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-18T04:41:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "EMI.Transversal.Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "EMI.Transversal.Exceptions\\BusinessException.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:41:50.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "EMI.Transversal.Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Transversal.Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "EMI.Transversal.Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:41:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\appsettings.json",
+              "RelativeDocumentMoniker": "EMI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI\\appsettings.json",
+              "RelativeToolTip": "EMI\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:41:27.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\LogDbContext.cs",
+              "RelativeDocumentMoniker": "EMI.Repository.EFC\\LogDbContext.cs",
+              "ToolTip": "C:\\Users\\Sidny\\Documents\\EMI Technical test\\EMI\\EMI.Repository.EFC\\LogDbContext.cs",
+              "RelativeToolTip": "EMI.Repository.EFC\\LogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:42:06.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

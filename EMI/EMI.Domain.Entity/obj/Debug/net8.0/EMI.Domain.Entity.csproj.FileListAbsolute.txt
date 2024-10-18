@@ -1,0 +1,17 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Domain.Entity.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Domain.Entity.runtimeconfig.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Domain.Entity.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Domain.Entity.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\bin\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Doma.38C08260.Up2Date
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\refint\EMI.Domain.Entity.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\EMI.Domain.Entity.genruntimeconfig.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Domain.Entity\obj\Debug\net8.0\ref\EMI.Domain.Entity.dll

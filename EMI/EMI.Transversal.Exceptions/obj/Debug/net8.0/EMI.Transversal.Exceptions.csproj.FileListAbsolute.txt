@@ -1,0 +1,11 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\bin\Debug\net8.0\EMI.Transversal.Exceptions.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\bin\Debug\net8.0\EMI.Transversal.Exceptions.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\bin\Debug\net8.0\EMI.Transversal.Exceptions.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\refint\EMI.Transversal.Exceptions.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\EMI.Transversal.Exceptions.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Transversal.Exceptions\obj\Debug\net8.0\ref\EMI.Transversal.Exceptions.dll

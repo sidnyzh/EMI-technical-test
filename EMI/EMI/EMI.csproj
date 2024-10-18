@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMI.Application.DTO\EMI.Application.DTO.csproj" />
+    <ProjectReference Include="..\EMI.Application.Interface\EMI.Application.Interface.csproj" />
+    <ProjectReference Include="..\EMI.Application.Main\EMI.Application.Main.csproj" />
+    <ProjectReference Include="..\EMI.Domain.Core\EMI.Domain.Core.csproj" />
+    <ProjectReference Include="..\EMI.Domain.Entity\EMI.Domain.Entity.csproj" />
+    <ProjectReference Include="..\EMI.Transversal.Exceptions\EMI.Transversal.Exceptions.csproj" />
+    <ProjectReference Include="..\EMI.Transversal.Mapper\EMI.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

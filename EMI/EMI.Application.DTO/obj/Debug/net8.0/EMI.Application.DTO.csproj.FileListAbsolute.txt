@@ -1,0 +1,15 @@
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\bin\Debug\net8.0\EMI.Application.DTO.deps.json
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\bin\Debug\net8.0\EMI.Application.DTO.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\bin\Debug\net8.0\EMI.Application.DTO.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\bin\Debug\net8.0\EMI.Transversal.Enums.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\bin\Debug\net8.0\EMI.Transversal.Enums.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.csproj.AssemblyReference.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.AssemblyInfo.cs
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Appl.7CDE4D5B.Up2Date
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\refint\EMI.Application.DTO.dll
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\EMI.Application.DTO.pdb
+C:\Users\Sidny\Documents\EMI Technical test\EMI\EMI.Application.DTO\obj\Debug\net8.0\ref\EMI.Application.DTO.dll
